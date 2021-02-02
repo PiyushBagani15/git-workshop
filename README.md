@@ -1,1 +1,3 @@
 # git-workshop
+
+This Repository is only for practice...
